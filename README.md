@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @indiansamaltman
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @indiansamaltman, an AI and ML enthusiast inspired by Sam Altman.
+👀 Passionate about deep learning, generative AI, and ethical AI.
+🌱 Learning natural language processing and neural network optimization.
+💞️ Open to collaborations on AI innovations and applied ML projects.
+📫 Connect with me on GitHub, or Twitter.
 
 <!---
 indiansamaltman/indiansamaltman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
